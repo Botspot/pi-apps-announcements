@@ -1,6 +1,5 @@
 Update Buddy: check for apt updates on boot.
-Wine: Run x86 Windows apps on your Pi.
-Chromium Widevine: Play Netflix in the browser.
+Wine (x64/x86): Run x64 and/or x86 Windows apps on your Pi.
 eDEX-UI: Beautiful futuristic terminal.
 Cool Retro Term: working bash terminal, looks like a tube television!
 CloudBuddy: Manage your Google Drive, Dropbox, OneDrive without a web browser.
